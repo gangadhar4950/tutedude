@@ -1,4 +1,4 @@
-first = input(str("Enter the first Name: "))
-last = input(str("Enter the last Name: "))
-
-print("Hello, " + first + " " + last + "!" + " Welcome to the Python program.")
+y = 0
+for i in range(1, 51):
+    y = y + i
+print(y)
